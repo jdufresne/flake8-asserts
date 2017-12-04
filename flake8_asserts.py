@@ -1,5 +1,6 @@
 import ast
 
+
 class Flake8AssertsPlugin:
     name = 'flake8-asserts'
     version = '0.1.0'
